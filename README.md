@@ -3,7 +3,8 @@
 To run the app, do run following command in terminal:
 ```bash
 
-flutter get pub
+cd world_time
+flutter pub get
 
 ```
 Then run the `main.dart` in android studio.
